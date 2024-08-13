@@ -1,10 +1,7 @@
+# Ecommerce Website - Nexton UI
 
-  # Ecommerce Website Nexton UI
+## Deskripsi
 
-  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
+**Ecommerce Website - Nexton UI** adalah proyek pengembangan antarmuka pengguna (UI) untuk sebuah platform e-commerce. Proyek ini dirancang untuk memberikan pengalaman berbelanja online yang intuitif dan menarik, dengan fokus pada tampilan yang modern dan responsif. Meskipun proyek ini terutama berfokus pada UI, struktur dan tata letak yang dibangun memungkinkan integrasi backend di masa depan untuk membuatnya menjadi aplikasi e-commerce yang fungsional sepenuhnya.
 
-  To preview and run the project on your device:
-  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
-  2) In the terminal, run `npm install`
-  3) Run `npm start` to view project in browser
-  
+<img src="img" alt="Alt Text" width="3000"/>
